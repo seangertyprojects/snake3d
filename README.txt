@@ -1,1 +1,2 @@
-
+code by Sean Gerty
+This is my implentation of a classic 2d snake game rendered in a 3d space. Basically, all I really did was use my y coordinate math from my 2d implentation and used as my z coordinate for my 3d implentation; this decision was to give the game more of a table top feel and look. I allow the user to rotate the board along the y axis counter and regular clockwise just to add an element of difficulty to the gameplay. 
